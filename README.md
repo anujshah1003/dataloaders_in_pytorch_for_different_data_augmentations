@@ -7,5 +7,6 @@ Video-1: https://www.youtube.com/watch?v=ldq8bKAEvPo
 ## Scenario-1:
 
 When we just need an augmneted image for each inout image to reduce overfitting
+
 ![alt text](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/tree/main/readme_imgs/scenario_1.PNG)
 
