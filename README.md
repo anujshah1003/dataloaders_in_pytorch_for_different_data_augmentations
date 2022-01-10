@@ -24,7 +24,7 @@ The notebook for scenario-2
 
 ## Scenario-3:
 
-When we want to use augmentation to increase dataset size of just some selctive class
+When we want to use augmentation to increase dataset size of just some selective class
 The notebook for scenario-3
 
 ![alt text](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/readme_imgs/scenario_3.PNG)
