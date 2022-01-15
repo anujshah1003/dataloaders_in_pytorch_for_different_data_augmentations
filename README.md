@@ -2,6 +2,8 @@
 # dataloaders_in_pytorch_for_different_data_augmentations
 This repository contains code for creating dataloaders for different scenarios of data augmentations in pytorch.
 
+Have a look at the video firsts to get an overview.
+
 Video-1 for scenario-1: https://www.youtube.com/watch?v=ldq8bKAEvPo
 
 Video-2 for scenario-2: https://www.youtube.com/watch?v=0BSWS20mEsM&t=1s
