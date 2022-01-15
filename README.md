@@ -1,8 +1,10 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anujshah645)
 # dataloaders_in_pytorch_for_different_data_augmentations
-This repository contains code for creating dataloaders for different scenariosn of data augmentations in pytorch.
+This repository contains code for creating dataloaders for different scenarios of data augmentations in pytorch.
 
-Video-1: https://www.youtube.com/watch?v=ldq8bKAEvPo
+Video-1 for scenario-1: https://www.youtube.com/watch?v=ldq8bKAEvPo
+Video-2 for scenario-2: https://www.youtube.com/watch?v=0BSWS20mEsM&t=1s
+Video-3 for scenario-3: https://www.youtube.com/watch?v=8N2QkeqWElY
 
 ## Scenario-1:
 
