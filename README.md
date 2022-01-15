@@ -26,7 +26,7 @@ The notebook for scenario-2
 
 When we want to use augmentation to increase dataset size of just some selective class
 The notebook for scenario-3
-1. ![dataloader_scenario_2_datagenerator_type_1](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/dataloader_scenario_2_datagenerator_type_1.ipynb)
-2.  ![dataloader_scenario_2_datagenerator_type_2](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/dataloader_scenario_2_datagenerator_type_2.ipynb)
+1. ![dataloader_scenario_3_datagenerator_type_1](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/dataloader_scenario_2_datagenerator_type_1.ipynb)
+2.  ![dataloader_scenario_3_datagenerator_type_2](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/dataloader_scenario_2_datagenerator_type_2.ipynb)
 
 ![alt text](https://github.com/anujshah1003/dataloaders_in_pytorch_for_different_data_augmentations/blob/main/readme_imgs/scenario_3.PNG)
